@@ -1,0 +1,11 @@
+Write a program to display all prime numbers within a range
+
+Example: start number is 25, end number is 50
+
+Expected output:
+29
+31
+37
+41
+43
+47

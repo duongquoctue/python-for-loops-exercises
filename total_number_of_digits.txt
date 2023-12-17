@@ -1,0 +1,4 @@
+Write a program to count the total number of digits in a number as user input.
+
+Example: Given the number is 75869
+Expected output: 5

@@ -1,0 +1,12 @@
+Write a program that finds the length, the number of vowels and consonants, and the most frequent character in a given string.
+
+Input:
+The program should accept a string as input
+
+Output:
+
+The program should print or display the following information about the string:
+Length: The total number of characters in the string.
+Vowel count: The number of vowels (a, e, i, o, u) in the string.
+Consonant count: The number of consonants (all alphabetical characters except vowels) in the string.
+Most frequent character: The character that appears most frequently in the string, along with its frequency.

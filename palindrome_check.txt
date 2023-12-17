@@ -1,0 +1,8 @@
+Write a program that checks if a given user input string is a palindrome (reads the same backward as forward)
+
+
+Example: "abcba"
+Expected output: True
+
+Example: "abcde"
+Expected output: False
